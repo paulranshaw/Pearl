@@ -1,5 +1,5 @@
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]]()
+[![Contributors][contributors-shield]](contributors-url)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -44,8 +44,8 @@ Then set your bot token: `token=''` within `config.py`, run `pearl.py` and away 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
-[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/paulranshaw/Pearl
+[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/paulranshaw
