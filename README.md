@@ -3,16 +3,22 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+![Pearl](https://user-images.githubusercontent.com/78688623/160734480-1241d33f-7bd2-422c-b6b0-789eb8693da5.png)
+
 <!-- ABOUT -->
 ## About
-![Pearl](https://user-images.githubusercontent.com/78688623/160734480-1241d33f-7bd2-422c-b6b0-789eb8693da5.png)
 
 **Pearl** is a custom [**Discord**](https://discord.com/) bot solution developed within [**discord.py**](https://github.com/Rapptz/discord.py), an API wrapper written in Python.
 
 Inspired from living with a certain feline whilst being at university, **Pearl** has discovered the Internet and is interactive in a server near you!
 
+### Built With
+* [Python](https://www.python.org/)
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
+* [About](#about)
+  * [Built With](#built-with)
 * [Installation](#installation)
 * [Commands](#commands)
 * [License](#license)
