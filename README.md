@@ -22,6 +22,7 @@ Then set your bot token: `token=''` within `config.py`, run `pearl.py` and away 
 | Command Usage | Description | Permission |
 | ------- | ----------- | ----------- |
 | `p!connect <@channel>` | **Pearl** will join the requested voice channel, if no channel param is provided Pearl will join the channel of the command author. | administrator |
+| `p!disconnect` | **Pearl** will leave the current voice channel. | administrator |
 
 ## License
 
