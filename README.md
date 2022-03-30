@@ -12,7 +12,7 @@
 Inspired from living with a certain feline whilst being at university, **Pearl** has discovered the Internet and is interactive in a server near you!
 
 <!-- TABLE OF CONTENTS -->
-#### Table of Contents
+## Table of Contents
 * [Installation](#installation)
 * [Commands](#commands)
 * [License](#license)
