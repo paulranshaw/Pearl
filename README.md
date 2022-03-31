@@ -25,7 +25,7 @@ Inspired from living with a certain feline whilst being at university, **Pearl**
 
 <!-- INSTALLATION -->
 ## Installation
-To run Pearl, download this repository and ensure that you are running `Python 3.5.3` or higher and have `discord.py[voice]` installed:
+To run **Pearl**, download this repository and ensure that you are running `Python 3.5.3` or higher and have `discord.py[voice]` installed:
 
 `python3 -m pip install -U discord.py[voice]`
 
