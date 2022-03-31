@@ -1,5 +1,5 @@
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]](contributors-url)
+[![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -45,6 +45,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/paulranshaw/Pearl
+[contributors-url]: https://github.com/paulranshaw/Pearl/graphs/contributors
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
