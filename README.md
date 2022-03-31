@@ -3,7 +3,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-![Pearl](https://user-images.githubusercontent.com/78688623/160734480-1241d33f-7bd2-422c-b6b0-789eb8693da5.png)
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/78688623/160734480-1241d33f-7bd2-422c-b6b0-789eb8693da5.png" width="128" height="128">
+  </a>
 
 <!-- ABOUT -->
 ## About
