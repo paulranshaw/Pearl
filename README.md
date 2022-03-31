@@ -39,7 +39,7 @@ Then set your bot token: `token=''` within `config.py`, run `pearl.py` and away 
 ## Commands
 | Command Usage | Description | Permission |
 | ------- | ----------- | ----------- |
-| `p!connect <@channel>` | **Pearl** will join the requested voice channel, if no channel param is provided Pearl will join the channel of the command author. | administrator |
+| `p!connect <@channel>` | **Pearl** will join the requested voice channel, if no channel param is provided **Pearl** will join the channel of the command author. | administrator |
 | `p!disconnect` | **Pearl** will leave the current voice channel. | administrator |
 | `p!say <content>` | **Pearl** will output the passed argument as a message within the current text channel. | administrator |
 
@@ -50,7 +50,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/paulranshaw/Pearl
 [contributors-url]: https://github.com/paulranshaw/Pearl/graphs/contributors
-[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg
+[license-shield]: https://img.shields.io/badge/license-MIT-blue.sv
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/paulranshaw
